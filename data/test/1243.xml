@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>1243.jpg</filename>
+	<path>D:\GitHub\logo_detection\data\images\test\1243.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wipro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>111</ymin>
+			<xmax>226</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

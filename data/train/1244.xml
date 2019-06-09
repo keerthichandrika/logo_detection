@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1244.jpg</filename>
+	<path>D:\GitHub\logo_detection\data\images\train\1244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wipro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>107</ymin>
+			<xmax>226</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

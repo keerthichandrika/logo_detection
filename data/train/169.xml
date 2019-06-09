@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>169.jpg</filename>
+	<path>D:\GitHub\logo_detection\data\images\train\169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>200</ymin>
+			<xmax>473</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

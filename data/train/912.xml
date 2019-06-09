@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>912.jpg</filename>
+	<path>D:\GitHub\logo_detection\data\images\train\912.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Toyota</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>67</ymin>
+			<xmax>505</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

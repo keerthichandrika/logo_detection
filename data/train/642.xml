@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>642.jpg</filename>
+	<path>D:\GitHub\logo_detection\data\images\train\642.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>186</ymin>
+			<xmax>513</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>
